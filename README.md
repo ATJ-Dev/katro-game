@@ -7,6 +7,6 @@ launch dist/main/main.exe
 # OR
 # CMD command
 install python and pygame  
-then:
+
 run python main.py
   
