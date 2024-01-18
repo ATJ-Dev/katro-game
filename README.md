@@ -2,8 +2,11 @@
 
 # to run
 # exe file
-run to dist/main/main.exe
+launch dist/main/main.exe
 
 # OR
-install python and pygame
+# CMD command
+install python and pygame  
+then:
 run python main.py
+  
